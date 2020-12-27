@@ -1,0 +1,9 @@
+[submodule "src/IPM"]
+	path = src/IPM
+	url = https://github.com/FlorianWestphal/IPM.git
+[submodule "src/gedlib"]
+	path = src/gedlib
+	url = https://github.com/FlorianWestphal/gedlib.git
+[submodule "src/phocnet"]
+	path = src/phocnet
+	url = https://github.com/FlorianWestphal/phocnet.git

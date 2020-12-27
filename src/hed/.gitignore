@@ -1,0 +1,4 @@
+*.o
+
+hed_test
+parallel_hed
